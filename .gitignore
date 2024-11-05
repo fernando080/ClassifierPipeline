@@ -1,0 +1,5 @@
+dataset/
+models/*.h5
+models/nn/logs/
+.idea/
+__pycache__/
